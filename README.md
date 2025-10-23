@@ -37,14 +37,16 @@
   <img src="https://user-images.githubusercontent.com/1863000/34887445-d79e1af4-f7c6-11e7-890e-116b92d68fae.png" height="40" alt="duckyscript logo"  />
 </div>
 
-<h3 align="left">🧠 Skills 😳</h3>
+<h3 align="left">🧠😳 Skills</h3>
 
 ###
 
 <div align="left">
-  World Wide Web Exploration</h3>
+  - World Wide Web Exploration</h3>
   <img src="https://www.svgrepo.com/show/378822/internet-explorer-9-11.svg" height="24" alt="c logo"  />
   <img width="40" />
+  <br>- <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3">Notepad</a></h3>
+  <br>- <a href="https://www.microsoft.com/en-us/windows/paint">MS Paint</a></h3>
 </div>
 
 ###
