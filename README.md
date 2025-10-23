@@ -42,8 +42,8 @@
 ###
 
 <div align="left">
-  - World Wide Web Exploration</h3>
-  <img src="https://www.svgrepo.com/show/378822/internet-explorer-9-11.svg" height="24" alt="c logo"  />
+  - World Wide Web Exploration
+  <img src="https://www.svgrepo.com/show/378822/internet-explorer-9-11.svg" height="20" style="vertical-align:middle;" alt="IE logo" />
   <img width="40" />
   <br>- <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3">Notepad</a></h3>
   <br>- <a href="https://www.microsoft.com/en-us/windows/paint">MS Paint</a></h3>
