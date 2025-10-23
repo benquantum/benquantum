@@ -30,7 +30,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/1863000/34887445-d79e1af4-f7c6-11e7-890e-116b92d68fae.png" height="40" alt="duckyscript logo"  />
 </div>
