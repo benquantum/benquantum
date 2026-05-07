@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi! I'm Ben, formerly known as <a href="https://www.youtube.com/@QuantumWizardYT">Quantum Wizard</a> on YT!<br><br>- 🙏 Randomest dev ever<br>- 📚 Currently studying in uni<br>- 🔐😔 Wannabe pentester</p>
+<p align="left">Hi! I'm Ben!<br><br>- 🙏 Randomest dev ever<br>- 📚 Currently studying in uni<br>- 🔐😔 Wannabe pentester</p>
 
 ###
 
