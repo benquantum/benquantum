@@ -39,6 +39,6 @@
 </div>
 
 ## My site! 🌐
-### *[benini.root.sx](https://benini.root.sx)*  
+### *[benini.root.sx](https://benini.root.sx)* [<img src="https://img.icons8.com/?size=100&id=82787&format=png&color=4493F8" height=19>](https://benini.root.sx)
 
 Check the [repo](https://github.com/0708090/0708090.github.io) :)
