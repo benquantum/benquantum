@@ -37,3 +37,8 @@
   <br>- <a href="https://www.microsoft.com/en-us/windows/paint">MS Paint</a></h3>
   <br>- <a href="https://wiki.archlinux.org/title/Installation_guide">Arch Linux Installation</a></h3>
 </div>
+
+## My site! 🌐
+### *[benini.root.sx](https://benini.root.sx)*  
+
+Check the [repo](https://github.com/0708090/0708090.github.io) :)
